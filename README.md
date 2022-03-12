@@ -1,1 +1,1 @@
-This repository explains shell basics,permission,redirections and variables
+This explains permissions in shell
