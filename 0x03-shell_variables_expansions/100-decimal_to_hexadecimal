@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $DECIMAL 16i Ao p 2o p | dc
