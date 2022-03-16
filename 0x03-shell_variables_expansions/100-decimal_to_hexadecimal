@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $DECIMAL 16i Ao p 2o p | dc
+echo $((##16($DECIMAL)))
