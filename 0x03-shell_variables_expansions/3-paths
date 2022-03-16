@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | grep -o ':/\|home' | wc -l
+echo $PATH | grep -o ':/\|.local' | wc -l
